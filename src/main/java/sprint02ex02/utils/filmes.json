@@ -1,0 +1,107 @@
+{
+  "filmes": [
+    {
+      "nome": "A VIAGEM DE CHIHIRO",
+      "descricao": "ANIMACAO",
+      "ano": 2001
+    },
+    {
+      "nome": "CIDADE DE DEUS",
+      "descricao": "DRAMA/CRIME",
+      "ano": 2002
+    },
+    {
+      "nome": "BRILHO ETERNO DE UMA MENTE SEM LEMBRANÇAS",
+      "descricao": "ROMANCE/SCI-FI",
+      "ano": 2004
+    },
+    {
+      "nome": "O DIABO VESTE PRADA",
+      "descricao": "COMEDIA/DRAMA",
+      "ano": 2006
+    },
+    {
+      "nome": "PEQUENA MISS SUNSHINE",
+      "descricao": "COMEDIA/DRAMA",
+      "ano": 2006
+    },
+    {
+      "nome": "O CAVALEIRO DAS TREVAS",
+      "descricao": "ACAO/AVENTURA",
+      "ano": 2008
+    },
+    {
+      "nome": "A ORIGEM",
+      "descricao": "ACAO/SCI-FI",
+      "ano": 2010
+    },
+    {
+      "nome": "A REDE SOCIAL",
+      "descricao": "DRAMA/HISTORIA",
+      "ano": 2010
+    },
+    {
+      "nome": "CISNE NEGRO",
+      "descricao": "DRAMA",
+      "ano": 2010
+    },
+    {
+      "nome": "ELA",
+      "descricao": "ROMANCE/SCI-FI",
+      "ano": 2013
+    },
+    {
+      "nome": "MAD MAX: ESTRADA DA FÚRIA",
+      "descricao": "ACAO/AVENTURA",
+      "ano": 2015
+    },
+    {
+      "nome": "DIVERTIDA MENTE",
+      "descricao": "FAMILIA/COMEDIA",
+      "ano": 2015
+    },
+    {
+      "nome": "QUE HORAS ELA VOLTA?",
+      "descricao": "DRAMA/COMEDIA",
+      "ano": 2015
+    },
+    {
+      "nome": "A CHEGADA",
+      "descricao": "SCI-FI",
+      "ano": 2016
+    },
+    {
+      "nome": "LA LA LAND",
+      "descricao": "MUSICAL/ROMANCE",
+      "ano": 2016
+    },
+    {
+      "nome": "MOONLIGHT",
+      "descricao": "DRAMA/INDIE FILM",
+      "ano": 2016
+    },
+    {
+      "nome": "CORRA!",
+      "descricao": "HORROR",
+      "ano": 2017
+    },
+    {
+      "nome": "HOMEM-ARANHA NO ARANHAVERSO",
+      "descricao": "ACAO/SCI-FI",
+      "ano": 2018
+    },
+    {
+      "nome": "BACURAU",
+      "descricao": "DRAMA",
+      "ano": 2019
+    },
+    {
+      "nome": "PARASITA",
+      "descricao": "TERROR/DRAMA",
+      "ano": 2019
+    }
+  ]
+}
+
+
+
